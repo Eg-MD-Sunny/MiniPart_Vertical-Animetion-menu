@@ -1,0 +1,28 @@
+#mainmenu ul{
+	background-color:#2f4f4f;
+	height:auto;
+	margin:0px;
+	padding:0px;
+	width:306px;	
+}
+#mainmenu  li{
+    list-style:none;
+	width:100%;
+	height:auto;
+	border-bottom:1px solid #fff;
+	color:#fffafa;
+	font-family:helvetica;
+	font-size:20px;
+	padding:20px;
+	text-align:center;
+}
+#mainmenu li:hover{
+	background:#ff4500;
+	width:266px;
+}
+#mainmenu  li{
+	-webkit-transition:all .9s ease;
+	-moz-transition:all .9s ease;
+	-ms-transition:all .9s ease;
+	transition:all .9s ease;
+}
